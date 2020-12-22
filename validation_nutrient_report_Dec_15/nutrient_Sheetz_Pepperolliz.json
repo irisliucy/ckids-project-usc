@@ -1,0 +1,1 @@
+{"totalHits": 0, "currentPage": 1, "totalPages": 0, "pageList": [], "foodSearchCriteria": {"query": "Pepperolliz", "generalSearchInput": "Pepperolliz", "pageNumber": 1, "sortBy": "dataType.keyword", "sortOrder": "asc", "numberOfResultsPerPage": 50, "pageSize": 25, "requireAllWords": false}, "foods": [], "aggregations": {"dataType": {}, "nutrients": {}}}
